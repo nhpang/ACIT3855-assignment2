@@ -1,0 +1,12 @@
+version: 1
+datastore:
+  user: nathan
+  password: nathan
+  hostname: mysql
+  port: 3306
+  db: nba
+
+events:
+  hostname: kafka
+  port: 29092
+  topic: events

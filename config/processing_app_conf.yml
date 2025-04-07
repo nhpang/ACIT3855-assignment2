@@ -1,0 +1,9 @@
+datastore:
+  filename: /var/data.json
+scheduler:
+  interval: 5
+eventstores:
+  games:
+    url: http://storage/storage/nba/games
+  players:
+    url: http://storage/storage/nba/players
