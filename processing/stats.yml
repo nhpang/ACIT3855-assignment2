@@ -1,0 +1,53 @@
+openapi: 3.0.0
+info:
+  description: This API provides event stats
+  version: "1.0.0"
+  title: Stats API
+  contact:
+    email: npang8@my.bcit.ca
+paths:
+  /stats:
+    get:
+      summary: Gets the event stats
+      operationId: app.get_stats
+      description: Gets NBA games and players processed statistics
+      responses:
+        '200':
+          description: Successfully returned a list of NBA events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ReadingStats:
+      required:
+        - num_game_events
+        - num_player_events
+        - max_points
+        - max_assists
+      properties:
+        num_game_events:
+          type: integer
+          example: 100
+        num_player_events:
+          type: integer
+          example: 100
+        max_points:
+          type: integer
+          example: 40
+        max_assists:
+          type: integer
+          example: 20
+      type: object

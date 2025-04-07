@@ -1,0 +1,61 @@
+---
+openapi: 3.0.0
+info:
+  title: Kafka Analyzer
+  description: Analyzer for Kafka
+  contact:
+    email: npang8@my.bcit.ca
+  version: 1.0.0
+paths:
+  /stats:
+    get:
+      summary: Reports statistics
+      operationId: app.stats
+      responses:
+        "200":
+          description: Stats returned
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Error
+  /NBAplayers:
+    get:
+      summary: Reports players in Kafka
+      operationId: app.players
+      parameters:
+        - name: index
+          in: query
+          required: true
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Players data returned
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Error
+
+  /NBAgames:
+    get:
+      summary: Reports games in Kafka
+      operationId: app.games
+      parameters:
+        - name: index
+          in: query
+          required: true
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Games data returned
+          content:
+            application/json:
+              schema:
+                type: object
+        "400":
+          description: Error

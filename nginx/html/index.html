@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nathan Pang NBA Stats page</title>
+    <link rel="icon" type="image/x-icon" href="https://i.scdn.co/image/ab67616d0000b273a875c3ec944b4f164ab5c350">
+</head>
+<body>
+    <h1>Processing</h1>
+
+    <!-- stats -->
+    <div id="processing"></div>
+    <script>
+        async function processing(){
+            try {
+              const response = await fetch('http://localhost/processing/stats', {
+                  method: 'GET',
+              });
+
+              if (!response.ok) {
+                  throw new Error(`HTTP error! Status: ${response.status}`);
+              }
+
+              const processing = await response.json();
+              console.log(processing)
+              
+              document.querySelector('#processing').innerHTML = ''
+
+              document.querySelector('#processing').innerHTML += '<p>Max Points: '+ processing['max_points'] +'</p>'
+              
+              document.querySelector('#processing').innerHTML += '<p>Max Assists: '+ processing['max_assists'] +'</p>'
+              
+              document.querySelector('#processing').innerHTML += '<p>Number of Game Events: '+ processing['num_game_events'] +'</p>'
+              
+              document.querySelector('#processing').innerHTML += '<p>Number of Player Events: '+ processing['num_player_events'] +'</p>'
+
+              
+              document.querySelector('#timeupdate').innerHTML = ''
+              document.querySelector('#timeupdate').innerHTML += '<p>Last Updated: '+ processing['last_updated'] +'</p>'
+
+          } catch (error) {
+              console.error('Error fetching search results:', error);
+          }
+        }   
+        processing()
+        setInterval(processing, 5000);
+    </script>
+
+    <h1>Analyzer</h1>
+    
+    <!-- stats -->
+    <div id="analyzer"></div>
+    <script>
+        async function analyzer(){
+            try {
+              const response = await fetch('http://localhost/analyzer/stats', {
+                  method: 'GET',
+              });
+
+              if (!response.ok) {
+                  throw new Error(`HTTP error! Status: ${response.status}`);
+              }
+
+              const analyzer = await response.json();
+              console.log(analyzer)
+
+              document.querySelector('#analyzer').innerHTML = ''
+
+              document.querySelector('#analyzer').innerHTML += '<p>Number of Game Events: '+ analyzer['num_game_reports'] +'</p>'
+              
+              document.querySelector('#analyzer').innerHTML += '<p>Number of Player Events: '+ analyzer['num_player_reports'] +'</p>'
+
+          } catch (error) {
+              console.error('Error fetching search results:', error);
+          }
+        }   
+        analyzer()
+        setInterval(analyzer, 5000);
+    </script>
+
+    <!-- random event -->
+    <div id="analyzerevent">
+        <h1>Player at Index 0</h1>
+    </div>
+    <script>
+        async function analyzerevent(){
+            try {
+              const response = await fetch('http://localhost/analyzer/NBAplayers?index=0', {
+                  method: 'GET',
+              });
+
+              if (!response.ok) {
+                  throw new Error(`HTTP error! Status: ${response.status}`);
+              }
+
+              const analyzerevent = await response.json();
+              console.log(analyzerevent)
+
+              document.querySelector('#analyzerevent').innerHTML = ''
+
+              document.querySelector('#analyzerevent').innerHTML += '<p>Player: '+ analyzerevent['payload']['player_id'] +'</p>'
+              document.querySelector('#analyzerevent').innerHTML += '<p>Points: '+ analyzerevent['payload']['points'] +'</p>'
+              document.querySelector('#analyzerevent').innerHTML += '<p>Assists: '+ analyzerevent['payload']['assists'] +'</p>'
+              document.querySelector('#analyzerevent').innerHTML += '<p>Rebounds: '+ analyzerevent['payload']['rebounds'] +'</p>'
+              document.querySelector('#analyzerevent').innerHTML += '<p>Blocks: '+ analyzerevent['payload']['blocks'] +'</p>'
+              document.querySelector('#analyzerevent').innerHTML += '<p>Steals: '+ analyzerevent['payload']['steals'] +'</p>'
+
+          } catch (error) {
+              console.error('Error fetching search results:', error);
+          }
+        }   
+        analyzerevent()
+        setInterval(analyzerevent, 5000);
+    </script>
+
+    <img src="https://i.ebayimg.com/images/g/bLEAAOSwaeljDMb8/s-l1200.jpg" height="250px">
+    <!-- graphic -->
+
+    <h1> Last updated time</h1>
+
+    <!-- last updated time -->
+    <div id="timeupdate"></div>
+</body>
+</html>

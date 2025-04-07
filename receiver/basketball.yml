@@ -1,0 +1,140 @@
+---
+openapi: 3.0.0
+info:
+  title: NBA Games API
+  description: API for NBA games and players
+  contact:
+    email: npang8@my.bcit.ca
+  version: 1.0.0
+paths:
+  /nba/games:
+    post:
+      summary: reports game data
+      description: Adds new game and team data to the system
+      operationId: app.report_game_data
+      requestBody:
+        description: NBA game report to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/GameReport'
+      responses:
+        "201":
+          description: game added
+        "400":
+          description: "invalid input, object invalid"
+  /nba/players:
+    post:
+      summary: reports player statistics and performance
+      description: Adds a new stat line to a player in the system
+      operationId: app.report_player_data
+      requestBody:
+        description: NBA player performance to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PlayerReport'
+      responses:
+        "201":
+          description: stat line added
+        "400":
+          description: "invalid input, object invalid"
+components:
+  schemas:
+    GameReport:
+      required:
+      - stadium_id
+      # - game_id
+      - team_1_id
+      - team_2_id
+      - team_1_score
+      - team_2_score
+      - timestamp
+      type: object
+      properties:
+        stadium_id:
+          type: string
+          description: The stadium's device ID reporting the game data
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        game_id:
+          type: string
+          description: NBA game with teams and date
+          example: Spurs vs Lakers January 13 2025
+        team_1_id:
+          type: string
+          description: team 1 name
+          example: San Antonio Spurs
+        team_2_id:
+          type: string
+          description: team 2 name
+          example: LA Lakers
+        team_1_score:
+          type: integer
+          description: score of team 1
+          example: 120
+        team_2_score:
+          type: integer
+          description: score of team 2
+          example: 115
+        timestamp:
+          type: string
+          description: timestamp when game was finished
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+
+    PlayerReport:
+      required:
+      # - statline_id
+      - player_id
+      - points
+      - assists
+      - rebounds
+      - blocks
+      - steals
+      - timestamp
+      type: object
+      properties:
+        statline_id:
+          type: string
+          description: The ID to identify a player's statline
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        stadium_id:
+          type: string
+          description: The stadium's device ID reporting the game data
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        player_id:
+          type: string
+          description: player name
+          example: Victor Wembanyama
+        points:
+          type: integer
+          description: how many points scored
+          format: uuid
+          example: 21
+        assists:
+          type: integer
+          description: how many assists scored
+          format: uuid
+          example: 10
+        rebounds:
+          type: integer
+          description: how many rebounds scored
+          format: uuid
+          example: 14
+        blocks:
+          type: integer
+          description: how many blocks scored
+          format: uuid
+          example: 5
+        steals:
+          type: integer
+          description: how many steals scored
+          format: uuid
+          example: 2
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z

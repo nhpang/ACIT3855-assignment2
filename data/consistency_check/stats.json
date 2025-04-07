@@ -1,0 +1,19 @@
+{
+    "last_updated": "2025-04-08 01:05:54",
+    "counts": {
+        "db": {
+            "games": 0,
+            "players": 0
+        },
+        "queue": {
+            "games": 0,
+            "players": 0
+        },
+        "processing": {
+            "games": 0,
+            "players": 0
+        }
+    },
+    "missing_in_db": {},
+    "missing_in_queue": {}
+}
