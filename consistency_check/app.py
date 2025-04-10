@@ -177,12 +177,12 @@ def update_cc():
                 found = True
                 break
 
-            if not found:
-                missqueue.append({
-                    "trace_id": event['trace_id'],
-                    "statline_id": event['statline_id'],
-                    "type": 'player'
-                })
+        if not found:
+            missqueue.append({
+                "trace_id": event['trace_id'],
+                "statline_id": event['statline_id'],
+                "type": 'player'
+            })
 
     for event in games:
         found = False
@@ -192,12 +192,12 @@ def update_cc():
                 found = True
                 break
 
-            if not found:
-                missqueue.append({
-                    "trace_id": event['trace_id'],
-                    "game_id": event['game_id'],
-                    "type": 'game'
-                })
+        if not found:
+            missqueue.append({
+                "trace_id": event['trace_id'],
+                "game_id": event['game_id'],
+                "type": 'game'
+            })
 
     # -------------------------------------------------------------------------------------------------------------------------
 
