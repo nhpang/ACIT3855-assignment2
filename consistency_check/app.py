@@ -41,8 +41,8 @@ def update_cc():
     print('updaters')
 
     counts = {}
-    missdb = {}
-    missqueue = {}
+    missdb = []
+    missqueue = []
 
     # STORAGE ------------------------------- STORAGE
 
@@ -117,7 +117,7 @@ def update_cc():
                     break
 
             if not found:
-                missdb.update({
+                missdb.append({
                     "trace_id": i['payload']['trace_id'],
                     "team_1_id": i['payload']['team_1_id'],
                     "type": i['type']
@@ -131,7 +131,7 @@ def update_cc():
                     break
 
             if not found:
-                missdb.update({
+                missdb.append({
                     "trace_id": i['payload']['trace_id'],
                     "player_id": i['payload']['player_id'],
                     "type": i['type']
@@ -178,7 +178,7 @@ def update_cc():
                 break
 
             if not found:
-                missqueue.update({
+                missqueue.append({
                     "trace_id": event['trace_id'],
                     "statline_id": event['statline_id'],
                     "type": 'player'
@@ -193,7 +193,7 @@ def update_cc():
                 break
 
             if not found:
-                missqueue.update({
+                missqueue.append({
                     "trace_id": event['trace_id'],
                     "game_id": event['game_id'],
                     "type": 'game'
