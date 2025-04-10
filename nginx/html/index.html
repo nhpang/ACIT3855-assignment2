@@ -138,7 +138,7 @@
               });
 
               if (!response.ok) {
-                  throw new Error(`HTTP error! Status: ${response.status}`);
+                  throw new Error(`HTTP error! Status: ${response.status}`); 
               }
 
               const consistencycheck = await response.json();
@@ -146,13 +146,13 @@
 
               document.querySelector('#consistencycheck').innerHTML = ''
               
-              document.querySelector('#consistencycheck').innerHTML += '<p> counts: '+consistencycheck['counts']+'</p>'
+              document.querySelector('#consistencycheck').innerHTML += '<p> counts: '+consistencycheck['counts'].toString()+'</p>'
               
-              document.querySelector('#consistencycheck').innerHTML += '<p> last_updated: '+consistencycheck['last_updated']+'</p>'
+              document.querySelector('#consistencycheck').innerHTML += '<p> last_updated: '+consistencycheck['last_updated'].toString()+'</p>'
               
-              document.querySelector('#consistencycheck').innerHTML += '<p> missing_in_db: '+consistencycheck['missing_in_db']+'</p>'
+              document.querySelector('#consistencycheck').innerHTML += '<p> missing_in_db: '+consistencycheck['missing_in_db'].toString()+'</p>'
               
-              document.querySelector('#consistencycheck').innerHTML += '<p> missing_in_queue: '+consistencycheck['missing_in_queue']+'</p>'
+              document.querySelector('#consistencycheck').innerHTML += '<p> missing_in_queue: '+consistencycheck['missing_in_queue'].toString()+'</p>'
 
           } catch (error) {
               console.error('Error fetching search results:', error);
