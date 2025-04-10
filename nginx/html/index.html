@@ -12,7 +12,7 @@
     <script>
         async function processing(){
             try {
-              const response = await fetch('http://54.214.201.25/processing/stats', {
+              const response = await fetch('http://35.90.254.189/processing/stats', {
                   method: 'GET',
               });
 
@@ -52,7 +52,7 @@
     <script>
         async function analyzer(){
             try {
-              const response = await fetch('http://54.214.201.25/analyzer/stats', {
+              const response = await fetch('http://35.90.254.189/analyzer/stats', {
                   method: 'GET',
               });
 
@@ -84,7 +84,7 @@
     <script>
         async function analyzerevent(){
             try {
-              const response = await fetch('http://54.214.201.25/analyzer/NBAplayers?index=0', {
+              const response = await fetch('http://35.90.254.189/analyzer/NBAplayers?index=0', {
                   method: 'GET',
               });
 
@@ -127,13 +127,13 @@
     </div>
     <script>
         function update(){
-            const response = fetch('http://54.214.201.25/consistency_check/update', {
+            const response = fetch('http://35.90.254.189/consistency_check/update', {
                   method: 'POST',
               });
         }
         async function consistencycheck(){
             try {
-              const response = await fetch('http://54.214.201.25/consistency_check/checks', {
+              const response = await fetch('http://35.90.254.189/consistency_check/checks', {
                   method: 'GET',
               });
 
