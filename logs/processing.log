@@ -1,0 +1,1338 @@
+2025-04-08 01:39:14,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:18,599 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:19,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:23,642 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:24,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:28,571 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:29,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:33,599 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:34,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:38,560 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:39,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:43,568 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:44,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:48,594 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:49,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:53,616 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:54,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:54,626 - basicLogger - INFO - Response for event has status 500
+2025-04-08 01:39:59,538 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:39:59,629 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:39:59,688 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:39:59,689 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:39:59,689 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:39:59,699 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 01:39:59'}
+2025-04-08 01:39:59,699 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:04,538 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:04,605 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:04,654 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:04,654 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:04,655 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:04,664 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 01:40:04'}
+2025-04-08 01:40:04,665 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:09,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:09,624 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:09,689 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:09,689 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:09,690 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:09,699 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 01:40:09'}
+2025-04-08 01:40:09,700 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:14,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:14,627 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:14,696 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:14,696 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:14,697 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:14,706 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 01:40:14'}
+2025-04-08 01:40:14,707 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:19,539 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:19,618 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:19,687 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:19,688 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:19,689 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:19,700 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 01:40:19'}
+2025-04-08 01:40:19,701 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:24,538 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:24,600 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:24,651 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:24,652 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:24,652 - basicLogger - INFO - Received 1 player events
+2025-04-08 01:40:24,662 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:40:24'}
+2025-04-08 01:40:24,662 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:29,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:29,612 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:29,677 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:29,678 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:29,678 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:29,689 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:40:29'}
+2025-04-08 01:40:29,690 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:34,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:34,601 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:34,660 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:34,660 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:34,661 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:34,673 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:40:34'}
+2025-04-08 01:40:34,674 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:39,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:39,596 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:39,649 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:39,649 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:39,650 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:39,659 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:40:39'}
+2025-04-08 01:40:39,660 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:44,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:44,607 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:44,673 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:44,674 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:44,674 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:44,685 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:40:44'}
+2025-04-08 01:40:44,686 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:49,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:49,599 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:49,711 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:49,712 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:49,712 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:49,721 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:40:49'}
+2025-04-08 01:40:49,722 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:54,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:54,594 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:54,642 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:54,643 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:54,644 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:54,653 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:40:54'}
+2025-04-08 01:40:54,653 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:40:59,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:40:59,612 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:40:59,680 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:40:59,680 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:40:59,681 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:40:59,691 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:40:59'}
+2025-04-08 01:40:59,691 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:04,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:04,623 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:04,694 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:04,694 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:04,695 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:04,704 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:04'}
+2025-04-08 01:41:04,705 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:09,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:09,615 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:09,675 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:09,676 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:09,676 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:09,686 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:09'}
+2025-04-08 01:41:09,686 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:14,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:14,599 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:14,649 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:14,650 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:14,650 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:14,661 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:14'}
+2025-04-08 01:41:14,662 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:19,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:19,621 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:19,676 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:19,677 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:19,677 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:19,687 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:19'}
+2025-04-08 01:41:19,688 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:24,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:24,592 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:24,642 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:24,642 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:24,643 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:24,650 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:24'}
+2025-04-08 01:41:24,651 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:29,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:29,593 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:29,643 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:29,644 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:29,645 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:29,653 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:29'}
+2025-04-08 01:41:29,654 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:34,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:34,606 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:34,670 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:34,671 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:34,671 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:34,681 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:34'}
+2025-04-08 01:41:34,682 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:39,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:39,590 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:39,638 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:39,639 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:39,639 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:39,648 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:39'}
+2025-04-08 01:41:39,649 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:44,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:44,599 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:44,653 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:44,654 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:44,654 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:44,663 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:44'}
+2025-04-08 01:41:44,664 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:49,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:49,631 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:49,701 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:49,702 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:49,702 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:49,711 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:49'}
+2025-04-08 01:41:49,712 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:54,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:54,597 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:54,658 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:54,658 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:54,659 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:54,669 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:54'}
+2025-04-08 01:41:54,670 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:41:54,851 - basicLogger - INFO - Request Received
+2025-04-08 01:41:54,858 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:54'}
+2025-04-08 01:41:54,859 - basicLogger - INFO - Request completed
+2025-04-08 01:41:59,558 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:41:59,606 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:59,651 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:59,652 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:41:59,652 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:41:59,663 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:41:59'}
+2025-04-08 01:41:59,663 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:04,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:04,577 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:04,613 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:04,613 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:04,614 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:04,622 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:04'}
+2025-04-08 01:42:04,622 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:09,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:09,589 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:09,652 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:09,652 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:09,653 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:09,663 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:09'}
+2025-04-08 01:42:09,664 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:14,545 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:14,604 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:14,659 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:14,660 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:14,660 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:14,669 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:14'}
+2025-04-08 01:42:14,669 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:19,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:19,614 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:19,674 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:19,675 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:19,676 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:19,685 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:19'}
+2025-04-08 01:42:19,686 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:24,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:24,597 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:24,650 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:24,651 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:24,651 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:24,660 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:24'}
+2025-04-08 01:42:24,661 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:29,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:29,609 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:29,680 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:29,681 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:29,681 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:29,690 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:29'}
+2025-04-08 01:42:29,690 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:34,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:34,593 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:34,649 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:34,650 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:34,650 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:34,659 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:34'}
+2025-04-08 01:42:34,659 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:39,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:39,581 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:39,616 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:39,616 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:39,617 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:39,622 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:39'}
+2025-04-08 01:42:39,623 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:44,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:44,594 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:44,643 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:44,643 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:44,644 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:44,652 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:44'}
+2025-04-08 01:42:44,653 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:49,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:49,623 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:49,685 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:49,686 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:49,686 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:49,695 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:49'}
+2025-04-08 01:42:49,696 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:54,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:54,604 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:54,657 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:54,658 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:54,658 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:54,669 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:54'}
+2025-04-08 01:42:54,670 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:42:59,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:42:59,610 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:42:59,693 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:42:59,693 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:42:59,694 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:42:59,704 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:42:59'}
+2025-04-08 01:42:59,705 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:04,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:04,595 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:04,661 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:04,661 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:04,662 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:04,674 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:04'}
+2025-04-08 01:43:04,674 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:09,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:09,658 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:09,726 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:09,726 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:09,727 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:09,736 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:09'}
+2025-04-08 01:43:09,736 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:14,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:14,589 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:14,638 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:14,638 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:14,639 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:14,649 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:14'}
+2025-04-08 01:43:14,649 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:19,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:19,597 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:19,663 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:19,664 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:19,665 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:19,677 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:19'}
+2025-04-08 01:43:19,677 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:24,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:24,606 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:24,676 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:24,677 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:24,677 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:24,687 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:24'}
+2025-04-08 01:43:24,688 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:29,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:29,607 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:29,718 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:29,719 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:29,720 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:29,748 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:29'}
+2025-04-08 01:43:29,759 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:34,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:34,618 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:34,673 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:34,674 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:34,674 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:34,684 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:34'}
+2025-04-08 01:43:34,685 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:39,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:39,623 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:39,695 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:39,696 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:39,696 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:39,707 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:39'}
+2025-04-08 01:43:39,707 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:44,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:44,625 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:44,713 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:44,714 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:44,714 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:44,731 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:44'}
+2025-04-08 01:43:44,733 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:45,094 - basicLogger - INFO - Request Received
+2025-04-08 01:43:45,100 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:44'}
+2025-04-08 01:43:45,101 - basicLogger - INFO - Request completed
+2025-04-08 01:43:49,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:49,604 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:49,664 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:49,665 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:49,665 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:49,677 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:49'}
+2025-04-08 01:43:49,678 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:54,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:54,611 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:54,675 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:54,676 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:54,677 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:54,694 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:54'}
+2025-04-08 01:43:54,695 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:43:59,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:43:59,598 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:59,646 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:59,646 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:43:59,647 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:43:59,656 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:43:59'}
+2025-04-08 01:43:59,657 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:04,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:04,604 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:04,675 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:04,676 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:04,676 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:04,686 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:04'}
+2025-04-08 01:44:04,687 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:09,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:09,593 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:09,644 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:09,645 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:09,645 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:09,653 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:09'}
+2025-04-08 01:44:09,654 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:14,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:14,603 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:14,671 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:14,672 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:14,672 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:14,682 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:14'}
+2025-04-08 01:44:14,682 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:19,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:19,604 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:19,666 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:19,667 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:19,667 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:19,675 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:19'}
+2025-04-08 01:44:19,676 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:24,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:24,680 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:24,743 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:24,744 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:24,745 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:24,754 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:24'}
+2025-04-08 01:44:24,754 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:29,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:29,595 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:29,654 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:29,655 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:29,655 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:29,665 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:29'}
+2025-04-08 01:44:29,666 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:34,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:34,591 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:34,640 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:34,640 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:34,641 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:34,653 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:34'}
+2025-04-08 01:44:34,654 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:39,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:39,620 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:39,683 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:39,684 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:39,684 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:39,694 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:39'}
+2025-04-08 01:44:39,694 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:44,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:44,590 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:44,642 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:44,643 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:44,643 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:44,664 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:44'}
+2025-04-08 01:44:44,666 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:49,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:49,601 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:49,668 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:49,668 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:49,669 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:49,678 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:49'}
+2025-04-08 01:44:49,678 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:54,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:54,592 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:54,694 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:54,695 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:54,699 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:54,711 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:54'}
+2025-04-08 01:44:54,712 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:44:59,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:44:59,593 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:44:59,647 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:44:59,648 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:44:59,649 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:44:59,658 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:44:59'}
+2025-04-08 01:44:59,659 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:04,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:04,628 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:04,712 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:04,713 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:04,714 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:04,724 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:04'}
+2025-04-08 01:45:04,724 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:09,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:09,591 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:09,641 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:09,641 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:09,642 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:09,653 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:09'}
+2025-04-08 01:45:09,653 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:14,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:14,638 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:14,719 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:14,720 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:14,721 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:14,731 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:14'}
+2025-04-08 01:45:14,732 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:19,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:19,613 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:19,671 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:19,672 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:19,672 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:19,681 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:19'}
+2025-04-08 01:45:19,682 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:20,363 - basicLogger - INFO - Request Received
+2025-04-08 01:45:20,369 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:19'}
+2025-04-08 01:45:20,370 - basicLogger - INFO - Request completed
+2025-04-08 01:45:24,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:24,591 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:24,651 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:24,651 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:24,652 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:24,661 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:24'}
+2025-04-08 01:45:24,662 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:29,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:29,592 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:29,645 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:29,645 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:29,646 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:29,654 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:29'}
+2025-04-08 01:45:29,655 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:34,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:34,610 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:34,673 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:34,673 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:34,674 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:34,683 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:34'}
+2025-04-08 01:45:34,684 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:39,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:39,675 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:39,727 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:39,728 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:39,728 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:39,736 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:39'}
+2025-04-08 01:45:39,737 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:44,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:44,608 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:44,674 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:44,675 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:44,675 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:44,684 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:44'}
+2025-04-08 01:45:44,685 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:49,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:49,621 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:49,685 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:49,686 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:49,687 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:49,696 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:49'}
+2025-04-08 01:45:49,696 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:54,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:54,612 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:54,686 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:54,687 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:54,688 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:54,698 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:54'}
+2025-04-08 01:45:54,699 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:45:59,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:45:59,600 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:59,668 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:59,668 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:45:59,669 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:45:59,678 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:45:59'}
+2025-04-08 01:45:59,678 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:04,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:04,596 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:04,657 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:04,658 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:04,658 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:04,667 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:04'}
+2025-04-08 01:46:04,668 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:09,538 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:09,620 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:09,691 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:09,692 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:09,692 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:09,701 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:09'}
+2025-04-08 01:46:09,702 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:14,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:14,605 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:14,689 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:14,690 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:14,690 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:14,700 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:14'}
+2025-04-08 01:46:14,701 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:19,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:19,611 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:19,680 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:19,681 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:19,681 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:19,691 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:19'}
+2025-04-08 01:46:19,691 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:24,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:24,596 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:24,676 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:24,676 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:24,677 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:24,687 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:24'}
+2025-04-08 01:46:24,688 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:29,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:29,604 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:29,665 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:29,665 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:29,666 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:29,674 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:29'}
+2025-04-08 01:46:29,675 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:34,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:34,589 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:34,632 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:34,633 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:34,633 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:34,640 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:34'}
+2025-04-08 01:46:34,641 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:39,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:39,587 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:39,631 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:39,631 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:39,631 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:39,638 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:39'}
+2025-04-08 01:46:39,639 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:44,536 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:44,585 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:44,645 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:44,645 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:44,645 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:44,654 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:44'}
+2025-04-08 01:46:44,654 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:49,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:49,610 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:49,661 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:49,662 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:49,662 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:49,675 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:49'}
+2025-04-08 01:46:49,675 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:54,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:54,592 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:54,748 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:54,749 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:54,749 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:54,761 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:54'}
+2025-04-08 01:46:54,762 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:46:59,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:46:59,591 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:46:59,642 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:46:59,643 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:46:59,643 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:46:59,652 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:46:59'}
+2025-04-08 01:46:59,652 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:47:04,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:47:04,591 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:47:04,656 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:47:04,657 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:47:04,657 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:47:04,666 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:47:04'}
+2025-04-08 01:47:04,666 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:47:09,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:47:09,600 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:47:09,666 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:47:09,667 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:47:09,667 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:47:09,677 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:47:09'}
+2025-04-08 01:47:09,678 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:47:14,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:47:14,594 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:47:14,662 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:47:14,663 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:47:14,663 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:47:14,674 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:47:14'}
+2025-04-08 01:47:14,675 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:47:19,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:47:19,592 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:47:19,640 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:47:19,641 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:47:19,642 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:47:19,656 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:47:19'}
+2025-04-08 01:47:19,657 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:47:24,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:47:24,600 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:47:24,682 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:47:24,682 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:47:24,683 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:47:24,693 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:47:24'}
+2025-04-08 01:47:24,694 - basicLogger - INFO - Period processing has ended
+2025-04-08 01:47:29,537 - basicLogger - INFO - Periodic processing has started
+2025-04-08 01:47:29,620 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:47:29,713 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:47:29,713 - basicLogger - INFO - Received 0 game events
+2025-04-08 01:47:29,714 - basicLogger - INFO - Received 0 player events
+2025-04-08 01:47:29,726 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 01:47:29'}
+2025-04-08 01:47:29,727 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:00:18,169 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:22,237 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:00:23,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:27,192 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:00:28,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:32,206 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:00:33,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:37,220 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:00:38,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:42,183 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:00:43,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:47,210 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:00:48,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:52,187 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:00:53,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:53,214 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:00:58,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:00:58,273 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:00:58,331 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:00:58,332 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:00:58,332 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:00:58,343 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:00:58'}
+2025-04-08 02:00:58,344 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:03,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:03,231 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:03,293 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:03,294 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:03,294 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:03,304 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:03'}
+2025-04-08 02:01:03,305 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:07,483 - basicLogger - INFO - Request Received
+2025-04-08 02:01:07,490 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:03'}
+2025-04-08 02:01:07,490 - basicLogger - INFO - Request completed
+2025-04-08 02:01:08,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:08,232 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:08,311 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:08,312 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:08,312 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:08,322 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:08'}
+2025-04-08 02:01:08,323 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:13,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:13,231 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:13,288 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:13,289 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:13,289 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:13,302 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:13'}
+2025-04-08 02:01:13,302 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:18,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:18,229 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:18,280 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:18,281 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:18,281 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:18,294 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:18'}
+2025-04-08 02:01:18,295 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:23,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:23,232 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:23,289 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:23,290 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:23,290 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:23,299 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:23'}
+2025-04-08 02:01:23,300 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:24,080 - basicLogger - INFO - Request Received
+2025-04-08 02:01:24,087 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:23'}
+2025-04-08 02:01:24,088 - basicLogger - INFO - Request completed
+2025-04-08 02:01:28,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:28,233 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:28,285 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:28,286 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:28,286 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:28,297 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:28'}
+2025-04-08 02:01:28,298 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:33,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:33,227 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:33,281 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:33,282 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:33,283 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:33,292 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:33'}
+2025-04-08 02:01:33,293 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:38,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:38,224 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:38,275 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:38,276 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:38,276 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:38,287 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:38'}
+2025-04-08 02:01:38,287 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:43,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:43,234 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:43,283 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:43,284 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:43,284 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:43,295 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:43'}
+2025-04-08 02:01:43,296 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:48,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:48,295 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:48,403 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:48,404 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:48,404 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:48,417 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:48'}
+2025-04-08 02:01:48,417 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:53,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:53,242 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:53,341 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:53,342 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:53,342 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:53,353 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:53'}
+2025-04-08 02:01:53,354 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:01:58,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:01:58,234 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:58,294 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:58,294 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:01:58,295 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:01:58,307 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:01:58'}
+2025-04-08 02:01:58,307 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:03,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:03,232 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:03,287 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:03,287 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:03,288 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:03,297 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:03'}
+2025-04-08 02:02:03,298 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:03,740 - basicLogger - INFO - Request Received
+2025-04-08 02:02:03,748 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:03'}
+2025-04-08 02:02:03,749 - basicLogger - INFO - Request completed
+2025-04-08 02:02:08,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:08,288 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:08,361 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:08,362 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:08,362 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:08,372 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:08'}
+2025-04-08 02:02:08,372 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:13,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:13,266 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:13,342 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:13,343 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:13,344 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:13,354 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:13'}
+2025-04-08 02:02:13,354 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:18,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:18,256 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:18,318 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:18,318 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:18,319 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:18,328 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:18'}
+2025-04-08 02:02:18,328 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:23,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:23,233 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:23,288 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:23,289 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:23,289 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:23,298 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:23'}
+2025-04-08 02:02:23,298 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:28,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:28,223 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:28,292 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:28,292 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:28,293 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:28,302 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:28'}
+2025-04-08 02:02:28,303 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:33,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:33,229 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:33,294 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:33,294 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:33,295 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:33,303 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:33'}
+2025-04-08 02:02:33,304 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:38,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:38,238 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:38,310 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:38,311 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:38,312 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:38,321 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:38'}
+2025-04-08 02:02:38,321 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:43,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:43,231 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:43,284 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:43,285 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:43,286 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:43,297 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:43'}
+2025-04-08 02:02:43,298 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:48,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:48,216 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:48,258 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:48,259 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:48,259 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:48,267 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:48'}
+2025-04-08 02:02:48,267 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:53,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:53,240 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:53,295 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:53,295 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:53,295 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:53,305 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:53'}
+2025-04-08 02:02:53,307 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:02:58,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:02:58,256 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:58,323 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:58,324 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:02:58,324 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:02:58,332 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:02:58'}
+2025-04-08 02:02:58,333 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:03,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:03,211 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:03,252 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:03,252 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:03,253 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:03,259 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:03'}
+2025-04-08 02:03:03,259 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:08,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:08,203 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:08,238 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:08,239 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:08,239 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:08,246 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:08'}
+2025-04-08 02:03:08,246 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:12,873 - basicLogger - INFO - Request Received
+2025-04-08 02:03:12,878 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 1, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:08'}
+2025-04-08 02:03:12,878 - basicLogger - INFO - Request completed
+2025-04-08 02:03:13,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:13,205 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:13,241 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:13,241 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:13,241 - basicLogger - INFO - Received 1 player events
+2025-04-08 02:03:13,248 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 2, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:13'}
+2025-04-08 02:03:13,249 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:18,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:18,218 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:18,273 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:18,275 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:18,275 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:18,282 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 2, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:18'}
+2025-04-08 02:03:18,283 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:23,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:23,205 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:23,250 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:23,250 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:23,251 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:23,258 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 2, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:23'}
+2025-04-08 02:03:23,258 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:28,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:28,205 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:28,246 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:28,247 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:28,247 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:28,254 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 2, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:28'}
+2025-04-08 02:03:28,254 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:33,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:33,218 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:33,260 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:33,260 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:33,260 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:33,267 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 2, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:33'}
+2025-04-08 02:03:33,267 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:38,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:38,235 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:38,309 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:38,309 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:38,310 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:38,327 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 2, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:38'}
+2025-04-08 02:03:38,328 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:43,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:43,234 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:43,303 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:43,303 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:43,304 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:43,313 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 2, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:43'}
+2025-04-08 02:03:43,314 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:48,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:48,242 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:48,297 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:48,298 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:48,298 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:48,305 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 2, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:48'}
+2025-04-08 02:03:48,306 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:53,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:53,220 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:53,262 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:53,262 - basicLogger - INFO - Received 100 game events
+2025-04-08 02:03:53,263 - basicLogger - INFO - Received 14 player events
+2025-04-08 02:03:53,270 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:53'}
+2025-04-08 02:03:53,270 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:03:58,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:03:58,228 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:58,312 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:58,314 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:03:58,315 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:03:58,324 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:03:58'}
+2025-04-08 02:03:58,325 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:03,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:03,237 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:03,337 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:03,337 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:03,338 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:03,348 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:03'}
+2025-04-08 02:04:03,348 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:05,790 - basicLogger - INFO - Request Received
+2025-04-08 02:04:05,832 - basicLogger - DEBUG - Contents: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:03'}
+2025-04-08 02:04:05,833 - basicLogger - INFO - Request completed
+2025-04-08 02:04:08,218 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:08,331 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:08,398 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:08,398 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:08,399 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:08,407 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:08'}
+2025-04-08 02:04:08,408 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:13,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:13,226 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:13,275 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:13,276 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:13,276 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:13,286 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:13'}
+2025-04-08 02:04:13,287 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:18,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:18,233 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:18,289 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:18,290 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:18,290 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:18,299 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:18'}
+2025-04-08 02:04:18,300 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:23,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:23,234 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:23,286 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:23,286 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:23,287 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:23,296 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:23'}
+2025-04-08 02:04:23,297 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:28,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:28,232 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:28,303 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:28,304 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:28,305 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:28,317 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:28'}
+2025-04-08 02:04:28,317 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:33,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:33,221 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:33,280 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:33,280 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:33,280 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:33,290 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:33'}
+2025-04-08 02:04:33,290 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:38,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:38,237 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:38,289 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:38,290 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:38,290 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:38,298 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:38'}
+2025-04-08 02:04:38,299 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:43,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:43,255 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:43,321 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:43,322 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:43,322 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:43,336 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:43'}
+2025-04-08 02:04:43,337 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:48,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:48,237 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:48,296 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:48,296 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:48,297 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:48,307 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:48'}
+2025-04-08 02:04:48,308 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:53,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:53,229 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:53,289 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:53,290 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:53,290 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:53,301 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:53'}
+2025-04-08 02:04:53,302 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:04:58,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:04:58,228 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:58,287 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:58,287 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:04:58,288 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:04:58,297 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:04:58'}
+2025-04-08 02:04:58,298 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:05:03,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:05:03,225 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:05:03,280 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:05:03,280 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:05:03,281 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:05:03,292 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:05:03'}
+2025-04-08 02:05:03,293 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:05:08,166 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:05:08,247 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:05:08,325 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:05:08,326 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:05:08,326 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:05:08,336 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:05:08'}
+2025-04-08 02:05:08,337 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:05:13,167 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:05:13,224 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:05:13,281 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:05:13,281 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:05:13,282 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:05:13,292 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 16, 'max_points': 38, 'max_assists': 20, 'last_updated': '2025-04-08 02:05:13'}
+2025-04-08 02:05:13,292 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:09:17,119 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:09:21,206 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:22,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:09:22,186 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:27,125 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:09:31,163 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:32,119 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:09:36,164 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:37,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:09:41,219 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:42,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:09:46,144 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:47,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:09:51,167 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:52,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:09:56,167 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:57,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:01,169 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:02,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:06,173 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:07,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:11,164 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:12,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:16,128 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:17,117 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:21,192 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:22,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:26,134 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:27,121 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:31,204 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:32,120 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:36,135 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:37,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:37,256 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:10:37,345 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:10:37,346 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:10:37,346 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:10:37,357 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 02:10:37'}
+2025-04-08 02:10:37,358 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:10:42,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:42,184 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:10:42,251 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:10:42,252 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:10:42,252 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:10:42,262 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 02:10:42'}
+2025-04-08 02:10:42,263 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:10:45,492 - basicLogger - INFO - Request Received
+2025-04-08 02:10:45,481 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 02:10:42'}
+2025-04-08 02:10:45,482 - basicLogger - INFO - Request completed
+2025-04-08 02:10:47,117 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:47,210 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:10:47,306 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:10:47,306 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:10:47,307 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:10:47,316 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 02:10:47'}
+2025-04-08 02:10:47,317 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:10:52,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:52,175 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:10:52,222 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:10:52,222 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:10:52,223 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:10:52,233 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 02:10:52'}
+2025-04-08 02:10:52,234 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:10:57,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:10:57,215 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:10:57,290 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:10:57,291 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:10:57,292 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:10:57,301 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-08 02:10:57'}
+2025-04-08 02:10:57,302 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:11:02,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:11:02,210 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:11:02,298 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:11:02,299 - basicLogger - INFO - Received 100 game events
+2025-04-08 02:11:02,300 - basicLogger - INFO - Received 100 player events
+2025-04-08 02:11:02,309 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-08 02:11:02'}
+2025-04-08 02:11:02,310 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:11:06,063 - basicLogger - INFO - Request Received
+2025-04-08 02:11:06,067 - basicLogger - DEBUG - Contents: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-08 02:11:02'}
+2025-04-08 02:11:06,068 - basicLogger - INFO - Request completed
+2025-04-08 02:11:07,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:11:07,196 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:11:07,274 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:11:07,274 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:11:07,275 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:11:07,283 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-08 02:11:07'}
+2025-04-08 02:11:07,284 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:11:12,118 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:11:12,179 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:11:12,231 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:11:12,231 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:11:12,232 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:11:12,241 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-08 02:11:12'}
+2025-04-08 02:11:12,242 - basicLogger - INFO - Period processing has ended
+2025-04-08 02:11:17,119 - basicLogger - INFO - Periodic processing has started
+2025-04-08 02:11:17,277 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:11:17,353 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:11:17,354 - basicLogger - INFO - Received 0 game events
+2025-04-08 02:11:17,354 - basicLogger - INFO - Received 0 player events
+2025-04-08 02:11:17,364 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-08 02:11:17'}
+2025-04-08 02:11:17,364 - basicLogger - INFO - Period processing has ended
+2025-04-10 21:47:25,656 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:47:26,986 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:47:30,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:47:31,907 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:47:35,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:47:36,935 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:47:40,649 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:47:43,390 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:47:50,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:47:51,910 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:47:55,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:47:56,943 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:00,649 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:01,973 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:05,649 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:06,960 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:10,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:11,898 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:20,649 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:21,966 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:25,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:26,878 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:30,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:31,883 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:35,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:36,937 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:40,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:41,901 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:50,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:50,720 - basicLogger - INFO - Response for game event has status 200
+2025-04-10 21:48:50,774 - basicLogger - INFO - Response for player event has status 200
+2025-04-10 21:48:50,774 - basicLogger - INFO - Received 0 game events
+2025-04-10 21:48:50,775 - basicLogger - INFO - Received 0 player events
+2025-04-10 21:48:50,780 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-10 21:48:50'}
+2025-04-10 21:48:50,781 - basicLogger - INFO - Period processing has ended
+2025-04-10 21:48:55,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:48:55,704 - basicLogger - INFO - Response for game event has status 200
+2025-04-10 21:48:55,753 - basicLogger - INFO - Response for player event has status 200
+2025-04-10 21:48:55,753 - basicLogger - INFO - Received 0 game events
+2025-04-10 21:48:55,753 - basicLogger - INFO - Received 0 player events
+2025-04-10 21:48:55,760 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-10 21:48:55'}
+2025-04-10 21:48:55,760 - basicLogger - INFO - Period processing has ended
+2025-04-10 21:48:56,087 - basicLogger - INFO - Request Received
+2025-04-10 21:48:56,091 - basicLogger - DEBUG - Contents: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-10 21:48:55'}
+2025-04-10 21:48:56,091 - basicLogger - INFO - Request completed
+2025-04-10 21:49:00,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:49:00,691 - basicLogger - INFO - Response for game event has status 200
+2025-04-10 21:49:00,739 - basicLogger - INFO - Response for player event has status 200
+2025-04-10 21:49:00,740 - basicLogger - INFO - Received 0 game events
+2025-04-10 21:49:00,740 - basicLogger - INFO - Received 0 player events
+2025-04-10 21:49:00,747 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-10 21:49:00'}
+2025-04-10 21:49:00,748 - basicLogger - INFO - Period processing has ended
+2025-04-10 21:49:05,648 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:49:05,714 - basicLogger - INFO - Response for game event has status 200
+2025-04-10 21:49:05,777 - basicLogger - INFO - Response for player event has status 200
+2025-04-10 21:49:05,780 - basicLogger - INFO - Received 0 game events
+2025-04-10 21:49:05,781 - basicLogger - INFO - Received 0 player events
+2025-04-10 21:49:05,791 - basicLogger - DEBUG - Updated Statistics: {'num_game_events': 100, 'num_player_events': 100, 'max_points': 39, 'max_assists': 20, 'last_updated': '2025-04-10 21:49:05'}
+2025-04-10 21:49:05,792 - basicLogger - INFO - Period processing has ended
+2025-04-10 21:57:00,247 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:03,679 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:05,246 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:08,164 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:10,245 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:18,818 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:20,245 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:23,652 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:25,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:28,199 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:30,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:33,627 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:35,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:38,230 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:40,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:44,086 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:50,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:53,657 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:57:55,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:57:58,211 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:00,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:03,610 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:05,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:08,206 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:10,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:13,636 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:15,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:20,163 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:25,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:28,663 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:30,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:33,189 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:35,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:38,638 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:40,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:43,213 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:45,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:53,512 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:58:55,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:58:58,561 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:00,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:03,118 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:05,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:08,493 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:10,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:13,211 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:15,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:18,653 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:25,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:28,703 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:30,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:33,103 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:35,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:38,504 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:40,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:43,096 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:45,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:48,641 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:59:50,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 21:59:58,696 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:00,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:03,640 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:05,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:08,183 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:10,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:13,583 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:15,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:18,167 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:20,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:23,629 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:30,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:33,613 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:35,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:38,199 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:40,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:43,540 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:45,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:48,177 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:50,266 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:00:53,624 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:00:55,266 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:03,779 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:05,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:08,441 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:10,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:13,108 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:15,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:18,549 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:20,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:23,250 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:25,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:33,919 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:35,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:38,678 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:40,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:42,108 - basicLogger - INFO - Request Received
+2025-04-10 22:01:42,112 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-10 21:49:05'}
+2025-04-10 22:01:42,112 - basicLogger - INFO - Request completed
+2025-04-10 22:01:43,089 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:45,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:46,591 - basicLogger - INFO - Request Received
+2025-04-10 22:01:46,596 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-10 21:49:05'}
+2025-04-10 22:01:46,596 - basicLogger - INFO - Request completed
+2025-04-10 22:01:48,520 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:50,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:51,178 - basicLogger - INFO - Request Received
+2025-04-10 22:01:51,181 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-10 21:49:05'}
+2025-04-10 22:01:51,181 - basicLogger - INFO - Request completed
+2025-04-10 22:01:53,194 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:01:55,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:01:56,010 - basicLogger - INFO - Request Received
+2025-04-10 22:01:56,015 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-10 21:49:05'}
+2025-04-10 22:01:56,015 - basicLogger - INFO - Request completed
+2025-04-10 22:01:58,660 - basicLogger - INFO - Response for event has status 500
+2025-04-10 22:02:00,244 - basicLogger - INFO - Periodic processing has started
+2025-04-10 22:02:03,018 - basicLogger - INFO - Request Received
+2025-04-10 22:02:03,024 - basicLogger - DEBUG - Contents: {'num_game_events': 0, 'num_player_events': 0, 'max_points': 0, 'max_assists': 0, 'last_updated': '2025-04-10 21:49:05'}
+2025-04-10 22:02:03,024 - basicLogger - INFO - Request completed
+2025-04-10 22:02:08,489 - basicLogger - INFO - Response for event has status 500

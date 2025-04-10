@@ -1,0 +1,39 @@
+2025-04-08 01:41:53,631 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:41:53,721 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:41:54,866 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 01:43:43,960 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:43:44,014 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:43:45,105 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 01:45:19,203 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 01:45:19,287 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 01:45:20,374 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 02:01:06,312 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:06,381 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:07,499 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 02:01:22,955 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:01:23,016 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:01:24,093 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 02:02:02,615 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:02:02,675 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:02:03,753 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 02:03:11,762 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:03:11,809 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:03:12,882 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 02:04:04,571 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:04:04,656 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:04:05,837 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 02:09:33,242 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:09:49,689 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:02,144 - basicLogger - INFO - Response for event has status 500
+2025-04-08 02:10:44,317 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:10:44,379 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:10:45,488 - basicLogger - INFO - Response for processing event has status 200
+2025-04-08 02:11:04,888 - basicLogger - INFO - Response for game event has status 200
+2025-04-08 02:11:04,955 - basicLogger - INFO - Response for player event has status 200
+2025-04-08 02:11:06,072 - basicLogger - INFO - Response for processing event has status 200
+2025-04-10 21:48:11,317 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:21,405 - basicLogger - INFO - Response for event has status 500
+2025-04-10 21:48:55,008 - basicLogger - INFO - Response for game event has status 200
+2025-04-10 21:48:55,038 - basicLogger - INFO - Response for player event has status 200
+2025-04-10 21:48:56,096 - basicLogger - INFO - Response for processing event has status 200
+2025-04-10 22:01:47,821 - basicLogger - INFO - Response for event has status 500

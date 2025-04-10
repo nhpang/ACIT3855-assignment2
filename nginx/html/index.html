@@ -12,7 +12,7 @@
     <script>
         async function processing(){
             try {
-              const response = await fetch('http://localhost/processing/stats', {
+              const response = await fetch('http://44.248.44.103/processing/stats', {
                   method: 'GET',
               });
 
@@ -52,7 +52,7 @@
     <script>
         async function analyzer(){
             try {
-              const response = await fetch('http://localhost/analyzer/stats', {
+              const response = await fetch('http://44.248.44.103/analyzer/stats', {
                   method: 'GET',
               });
 
@@ -84,7 +84,7 @@
     <script>
         async function analyzerevent(){
             try {
-              const response = await fetch('http://localhost/analyzer/NBAplayers?index=0', {
+              const response = await fetch('http://44.248.44.103/analyzer/NBAplayers?index=0', {
                   method: 'GET',
               });
 
@@ -119,5 +119,47 @@
 
     <!-- last updated time -->
     <div id="timeupdate"></div>
+
+    <div id="consistencycheck">
+        <h1>Consistency Check</h1>
+        <input type="button" value="Update" onclick="update()">
+    </div>
+    <script>
+        function update(){
+            const response = fetch('http://44.248.44.103/consistency_check/update', {
+                  method: 'POST',
+              });
+        }
+        async function consistencycheck(){
+            try {
+              const response = await fetch('http://44.248.44.103/consistency_check/checks', {
+                  method: 'GET',
+              });
+
+              if (!response.ok) {
+                  throw new Error(`HTTP error! Status: ${response.status}`);
+              }
+
+              const consistencycheck = await response.json();
+              console.log(consistencycheck)
+
+              document.querySelector('#consistencycheck').innerHTML = ''
+              
+              document.querySelector('#consistencycheck').innerHTML = '<p> counts: '+consistencycheck['counts']+'</p>'
+              
+              document.querySelector('#consistencycheck').innerHTML = '<p> last_updated: '+consistencycheck['last_updated']+'</p>'
+              
+              document.querySelector('#consistencycheck').innerHTML = '<p> missing_in_db: '+consistencycheck['missing_in_db']+'</p>'
+              
+              document.querySelector('#consistencycheck').innerHTML = '<p> missing_in_queue: '+consistencycheck['missing_in_queue']+'</p>'
+
+          } catch (error) {
+              console.error('Error fetching search results:', error);
+          }
+        }   
+        consistencycheck()
+        setInterval(consistencycheck, 5000);
+    </script>
+
 </body>
 </html>

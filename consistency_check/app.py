@@ -172,7 +172,7 @@ def update_cc():
     for event in players:
         found = False
         for i in messages:
-            i = json.load(i)
+            i = json.loads(i)
             if event['trace_id'] == i['payload']['trace_id']:
                 found = True
                 break
@@ -187,7 +187,7 @@ def update_cc():
     for event in games:
         found = False
         for i in messages:
-            i = json.load(i)
+            i = json.loads(i)
             if event['trace_id'] == i['payload']['trace_id']:
                 found = True
                 break
